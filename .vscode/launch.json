@@ -5,7 +5,7 @@
             "type": "node-terminal",
             "request": "launch",
             "name": "Debug tests",
-            "command": "npm run jest"
+            "command": "npm run test"
         }
     ]
 }
